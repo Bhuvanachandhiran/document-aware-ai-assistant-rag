@@ -30,7 +30,4 @@ The system retrieves relevant document content using embeddings and vector simil
 4. Relevant chunks are retrieved for each query  
 5. LLM generates answers using retrieved context  
 
-## How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+
